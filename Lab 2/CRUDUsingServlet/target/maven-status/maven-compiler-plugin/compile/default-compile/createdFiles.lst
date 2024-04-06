@@ -1,0 +1,9 @@
+ViewServlets.class
+EditServlet.class
+UserDao.class
+com\mycompany\crudusingservlet\JakartaRestConfiguration.class
+DeleteServlet.class
+User.class
+SaveServlet.class
+com\mycompany\crudusingservlet\resources\JakartaEE10Resource.class
+EditServlet2.class
